@@ -52,6 +52,7 @@ The **Local Football League Management System** is a Java EE-based web applicati
 
 1. **Clone the Repository**
    git clone https://github.com/11Siya05/Local-Football-League-Management-System
+
 Open in NetBeans 8.2
 
 Configure GlassFish Server
