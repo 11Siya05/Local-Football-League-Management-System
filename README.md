@@ -35,11 +35,6 @@ web/
 ├── team_added.jsp # Confirmation JSP after team creation
 ├── other jsp files... # Additional views for listing, updating, searching, etc.
 
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ Features
 
@@ -73,7 +68,6 @@ Edit
 ## 🏗️ Build & Deployment Instructions
 
 1. **Clone the Repository**
-   ```bash
    git clone https://your-repo-url.git
 Open in NetBeans 8.2
 
