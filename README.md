@@ -23,17 +23,14 @@ The **Local Football League Management System** is a Java EE-based web applicati
 
 src/
 │
-├── za/ac/tut/entities/ # All JPA Entity classes (e.g., Team.java, Player.java)
-│
-├── za/ac/tut/model/bl/ # EJBs and Facades (e.g., TeamFacade.java, AbstractFacade.java)
-│
-├── za/ac/tut/controllers/ # Servlets (e.g., AddTeamServlet.java)
-│
+├── za/ac/tut/entities/      # JPA Entity classes (Team.java, Player.java)
+├── za/ac/tut/model/bl/      # EJBs & Facade classes (TeamFacade.java, etc.)
+├── za/ac/tut/controllers/   # Servlet controllers (AddTeamServlet.java, etc.)
 web/
-│
-├── add_team.jsp # JSP page for adding a team
-├── team_added.jsp # Confirmation JSP after team creation
-├── other jsp files... # Additional views for listing, updating, searching, etc.
+├── add_team.jsp             # Page to add a team
+├── team_added.jsp           # Confirmation page after adding a team
+├── ...                      # Other JSPs (listing, editing, searching, etc.)
+
 
 
 ## ⚙️ Features
