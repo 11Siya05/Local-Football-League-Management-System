@@ -69,8 +69,4 @@ This project is developed for academic and educational purposes. All rights rese
 Full Stack Java Developer
 Specializing in Java EE, EJB, JPA, JSP, and Servlets
 
-kotlin
-Copy
-Edit
-
 Let me know if you want this formatted as an actual file or included in your NetBeans project.
