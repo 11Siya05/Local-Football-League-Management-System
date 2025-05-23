@@ -17,20 +17,6 @@ The **Local Football League Management System** is a Java EE-based web applicati
 | IDE                | NetBeans 8.2                          |
 | JDK                | Java SE 8                             |
 
----
-
-## 📁 Project Structure
-
-src/
-│
-├── za/ac/tut/entities/      # JPA Entity classes (Team.java, Player.java)
-├── za/ac/tut/model/bl/      # EJBs & Facade classes (TeamFacade.java, etc.)
-├── za/ac/tut/controllers/   # Servlet controllers (AddTeamServlet.java, etc.)
-web/
-├── add_team.jsp             # Page to add a team
-├── team_added.jsp           # Confirmation page after adding a team
-├── ...                      # Other JSPs (listing, editing, searching, etc.)
-
 
 
 ## ⚙️ Features
